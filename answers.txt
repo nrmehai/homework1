@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+
+Rebase is used if you want to update the start of your branch to a later commit that happend after you branched out, this is the command to use.
+Merge is used to put a forked history back together.
